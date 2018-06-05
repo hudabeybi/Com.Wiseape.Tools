@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfFactoryConfigurationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.Tools.OAuthServerManager.AccessToken</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AccessTokenValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AccessToken Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.AccessToken</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AccessTokenValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AccessToken Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.AccessToken</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AccessTokenValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AccessToken Module</ClassInfo>
+  </FactoryConfigurationItem>
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.Tools.OAuthServerManager.AuthenticationCode</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AuthenticationCodeValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AuthenticationCode Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.AuthenticationCode</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AuthenticationCodeValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AuthenticationCode Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.AuthenticationCode</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AuthenticationCodeValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AuthenticationCode Module</ClassInfo>
+  </FactoryConfigurationItem>
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.Tools.OAuthServerManager.AuthenticationSession</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AuthenticationSessionValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AuthenticationSession Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.AuthenticationSession</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AuthenticationSessionValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AuthenticationSession Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.AuthenticationSession</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AuthenticationSessionValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AuthenticationSession Module</ClassInfo>
+  </FactoryConfigurationItem>
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.Tools.OAuthServerManager.AuthenticationSource</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AuthenticationSourceValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AuthenticationSource Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.AuthenticationSource</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AuthenticationSourceValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AuthenticationSource Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.AuthenticationSource</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.AuthenticationSourceValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for AuthenticationSource Module</ClassInfo>
+  </FactoryConfigurationItem>
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.Tools.OAuthServerManager.RefreshToken</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.RefreshTokenValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for RefreshToken Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.RefreshToken</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.RefreshTokenValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for RefreshToken Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.RefreshToken</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.RefreshTokenValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for RefreshToken Module</ClassInfo>
+  </FactoryConfigurationItem>
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.Tools.OAuthServerManager.RegisteredApplication</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.RegisteredApplicationValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for RegisteredApplication Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.RegisteredApplication</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.RegisteredApplicationValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for RegisteredApplication Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.RegisteredApplication</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.RegisteredApplicationValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for RegisteredApplication Module</ClassInfo>
+  </FactoryConfigurationItem>
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.Tools.OAuthServerManager.OAuthSetting</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.OAuthSettingValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for OAuthSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.OAuthSetting</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.OAuthSettingValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for OAuthSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.OAuthSetting</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.OAuthSettingValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for OAuthSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+</ArrayOfFactoryConfigurationItem>

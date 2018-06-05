@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfFactoryConfigurationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FactoryConfigurationItem>
+    <Key>OAuthServerManager.Employee</Key>
+    <DllName>Com.Wiseape.Tools.OAuthServerManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.OAuthServerManager.View.Service.Validator.EmployeeValidator</ClassName>
+    <ClassInfo>Validator for Employee module</ClassInfo>
+  </FactoryConfigurationItem>
+</ArrayOfFactoryConfigurationItem>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfFactoryConfigurationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <FactoryConfigurationItem>
+    <Key>Find.Tools.OAuthServerManager.AccessToken</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Find.Tools.AccessToken</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.AccessToken</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Update.Tools.AccessToken</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.AccessToken</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Delete.Tools.AccessToken</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.Tools.OAuthServerManager.AuthenticationCode</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Find.Tools.AuthenticationCode</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.AuthenticationCode</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Update.Tools.AuthenticationCode</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.AuthenticationCode</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Delete.Tools.AuthenticationCode</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.Tools.OAuthServerManager.AuthenticationSession</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Find.Tools.AuthenticationSession</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.AuthenticationSession</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Update.Tools.AuthenticationSession</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.AuthenticationSession</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Delete.Tools.AuthenticationSession</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.Tools.OAuthServerManager.AuthenticationSource</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Find.Tools.AuthenticationSource</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.AuthenticationSource</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Update.Tools.AuthenticationSource</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.AuthenticationSource</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Delete.Tools.AuthenticationSource</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.Tools.OAuthServerManager.RefreshToken</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Find.Tools.RefreshToken</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.RefreshToken</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Update.Tools.RefreshToken</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.RefreshToken</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Delete.Tools.RefreshToken</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.Tools.OAuthServerManager.RegisteredApplication</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Find.Tools.RegisteredApplication</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.RegisteredApplication</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Update.Tools.RegisteredApplication</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.RegisteredApplication</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Delete.Tools.RegisteredApplication</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.Tools.OAuthServerManager.OAuthSetting</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Find.Tools.OAuthSetting</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.Tools.OAuthServerManager.OAuthSetting</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Update.Tools.OAuthSetting</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.Tools.OAuthServerManager.OAuthSetting</Key>
+    <DllName>Com.Wiseape.Tools.Data.dll</DllName>
+    <ClassName>Com.Wiseape.Tools.Data.Context.ToolsDataContext</ClassName>
+    <ClassInfo>Data context for Delete.Tools.OAuthSetting</ClassInfo>
+  </FactoryConfigurationItem>
+
+</ArrayOfFactoryConfigurationItem>

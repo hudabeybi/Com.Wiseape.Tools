@@ -1,0 +1,58 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\Com.Wiseape.Tools.Data.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\Com.Wiseape.Tools.Data.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\Com.Wiseape.Tools.Data.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\EntityFramework.SqlServer.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\Newtonsoft.Json.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\EntityFramework.SqlServer.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\Newtonsoft.Json.xml
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Tools.Data.dll.config
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Tools.Data.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Tools.Data.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Framework.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Utility.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\EntityFramework.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\System.Linq.Dynamic.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Framework.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\EntityFramework.xml
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\obj\Debug\Com.Wiseape.Tools.Data.csprojResolveAssemblyReference.cache
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\obj\Debug\Com.Wiseape.Tools.Data.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\obj\Debug\Com.Wiseape.Tools.Data.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Factory.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\obj\Debug\Com.Wiseape.Tools.Data.csprojResolveAssemblyReference.cache
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\obj\Debug\Com.Wiseape.Tools.Data.dll
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\obj\Debug\Com.Wiseape.Tools.Data.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Tools.Data.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Tools.Data.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Tools.Data.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\MimeTypeMap.List.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\obj\Debug\Com.Wiseape.Tools.Data.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\obj\Debug\Com.Wiseape.Tools.Data.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Tools\Com.Wiseape.Tools.Shared\Com.Wiseape.Tools.Data\obj\Debug\Com.Wiseape.Tools.Data.pdb
